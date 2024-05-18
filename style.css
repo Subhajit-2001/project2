@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    text-decoration: none;
+}
+.wrapper{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.banner{
+    height: 700px;
+    width: 100%;
+    background-image: url();
+}
+#slider1{
+    height: 700px;
+    width: 100%;
+    background-image: url(./download.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#slider2{
+    height: 700px;
+    width: 100%;
+    background-image: url(./blog1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
